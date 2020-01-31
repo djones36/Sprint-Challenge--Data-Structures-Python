@@ -72,7 +72,7 @@ _You may not use the built in Python list, set, or dictionary for this problem_
 
 (Hint: You might try importing a data structure you built during the week)
 
-#### Task 3. Reverse a Linked List
+#### Task 3. Reverse a Linked List X
 
 Inside of the `reverse` directory, you'll find a basic implementation of a Singly Linked List. _Without_ making it a Doubly Linked List (adding a tail attribute), complete the `reverse_list()` function within `reverse/reverse.py` reverse the contents of the list.
 
